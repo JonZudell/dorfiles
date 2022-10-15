@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-apt-get update && apt-get -y install  uild-essential procps curl file git
+apt-get update && apt-get -y install build-essential procps curl file git
 
 test -d ~/.linuxbrew && eval "$(~/.linuxbrew/bin/brew shellenv)"
 test -d /home/linuxbrew/.linuxbrew && eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
