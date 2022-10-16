@@ -1,8 +1,6 @@
 [user]
     name = Jon Zudell
     email = jonathon.zudell@gmail.com
-[url "git@github.com:"]
-    insteadOf = https://github.com/
 [alias]
     # list branches ordered by change time
     branch-ls = "!git for-each-ref --format='%(committerdate:short),%(authorname),%(refname:short)' --sort=committerdate refs/heads/ | column -t -s ','"
