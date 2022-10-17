@@ -5,7 +5,7 @@
         "revision": "cf8a86177665825a7f30780e8fe1af333a0527c6"
       },
       "homebrew/core": {
-        "revision": "4e52a855f20b6a4cb609c634ca0519035e78f27a"
+        "revision": "d60ed9e733be0c2f24d40fa5daca5150ca0e03aa"
       }
     },
     "brew": {
@@ -240,7 +240,7 @@
       "Debian GNU/Linux 10 (buster) (buster)": {
         "HOMEBREW_VERSION": "3.6.5",
         "HOMEBREW_PREFIX": "/home/linuxbrew/.linuxbrew",
-        "Homebrew/linuxbrew-core": "4e52a855f20b6a4cb609c634ca0519035e78f27a",
+        "Homebrew/linuxbrew-core": "d60ed9e733be0c2f24d40fa5daca5150ca0e03aa",
         "GCC": ""
       }
     }
